@@ -1,6 +1,6 @@
 package shubhaDhang.exception;
 
-public class InsufficientBalanceException extends Exception{
+public class InsufficientBalanceException extends Exception {
 
 
     public InsufficientBalanceException(String message) {

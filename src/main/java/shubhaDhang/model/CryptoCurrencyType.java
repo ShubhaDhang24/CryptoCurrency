@@ -1,7 +1,7 @@
 package shubhaDhang.model;
 
 public enum CryptoCurrencyType {
-    BITCOIN("BTC"),ETH("Etherum"),USDT("TheterUS"),BNB("BNB");
+    BITCOIN("BTC"), ETH("Etherum"), USDT("TheterUS"), BNB("BNB");
     private final String name;
 
     CryptoCurrencyType(String name) {
